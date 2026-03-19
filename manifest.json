@@ -10,7 +10,7 @@
     { "file": "NASB.xml", "name": "NASB", "fullName": "New American Standard Bible" },
     { "file": "NIRV.xml", "name": "NIRV", "fullName": "New International Reader's Version" },
     { "file": "NIV.xml", "name": "NIV", "fullName": "New International Version" },
-    { "file": "NKJV.xml", "name": "NKJSV", "fullName": "New King James Version" },
+    { "file": "NKJV.xml", "name": "NKJV", "fullName": "New King James Version" },
     { "file": "NLT.xml", "name": "NLT", "fullName": "New Living Translation" },
     { "file": "PTB.xml", "name": "PTB", "fullName": "Passion Translation Bible" },
     { "file": "RSV.xml", "name": "RSV", "fullName": "Revised Standard Version" },
